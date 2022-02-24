@@ -54,3 +54,11 @@ h1{
     font-weight: bold;
     cursor: pointer;
 }
+
+/* ------------------------------------Media Query---------------------------------------- */
+
+@media only screen and (max-device-width: 480px) {
+ .container{
+     width: 50vh;
+ }
+}
